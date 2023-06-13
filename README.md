@@ -1,4 +1,4 @@
-Atsushi Hori, a PhD student of Kyoto University.
+Atsushi Hori, an assistant professor at Seikei University.
 
 Official Website: https://a24hori.github.io/
 
